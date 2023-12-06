@@ -1,4 +1,4 @@
-# Python_Kivy_Game
+# Kivy da o'yin ikki kishilik
 
 
 # Ishga tushurish tartibi 🔥🔥🔥
